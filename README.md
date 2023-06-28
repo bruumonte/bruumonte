@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruumonte&layout=compact&hide_border=true&title_color=04adbf&text_color=04adbf&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bruumonte&bg_color=ffffff&color=c37400&line=6f7302&point=a66d03&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center"> 
 <a href="https://instagram.com/brumonteiroinsta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:comercialbrunacosta@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
